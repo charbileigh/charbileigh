@@ -1,3 +1,5 @@
+(/assets/images/francesca.jpg "francesca")
+
 # Hi there 👋
 
 - 🔭 I’m currently working on completing my BS in Mehanical and mechatronics engineering degree which is the equivalent of an Electromechanical major
