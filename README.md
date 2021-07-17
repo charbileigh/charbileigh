@@ -35,7 +35,7 @@ I am an experienced Project Coordinator with a demonstrated history of working i
 - :computer: Markdown
 - :computer: Microsoft Office
 - :computer: Microsoft Excel [VBA]
-- :computer: Micrsoft Spreadsheets [Advanced]
+- :computer: Microsoft Spreadsheets [Advanced]
 
 ![436383](https://user-images.githubusercontent.com/44195461/126049310-cdbf587d-9ccb-4794-82f5-a79c3e76a79f.jpg)
 
