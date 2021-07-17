@@ -54,6 +54,10 @@ I am an experienced Project Coordinator with a demonstrated history of working i
 - :briefcase: Cybersecurity and Network Security
 - :briefcase: Fuzzy Logic
 
+![charbileigh's github stats](https://github-readme-stats.vercel.app/api?username=charbileigh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charbileigh)](https://github.com/charbileigh/github-readme-stats)
+
+
 
 
 
