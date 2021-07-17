@@ -17,9 +17,11 @@
 
 I am an experienced Project Coordinator with a demonstrated history of working in the information technology and services industry. Skilled in SolidWorks, Asset Management, Team Building and Blogging. I would describe myself as a sea trapped inside a water droplet because I have a vast array of experience outside of my university career. I am also interested in the medical field and I am not only focused on the information and technology sector.
 
-![pet](https://user-images.githubusercontent.com/44195461/126048034-763a7037-cdef-41b3-ba74-e6fa675f3112.jpg)
+![415511](https://user-images.githubusercontent.com/44195461/126048133-b9652d5e-0835-44e4-b1b5-b42746af5e74.jpg)
 
-![soon](https://user-images.githubusercontent.com/44195461/126048043-513800a1-eb77-466c-85ac-9bd72bf848c1.jpg)
+![847106](https://user-images.githubusercontent.com/44195461/126048249-f6c1acb0-bb5d-4ea7-a119-f8ec0c732d7c.jpg)
+
+
 
 
 
