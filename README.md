@@ -33,7 +33,7 @@ I am an experienced Project Coordinator with a demonstrated history of working i
 - :computer: JavaSript    
 - :computer: React.JS
 - :computer: Markdown
-- :computer: Microsoft Offie
+- :computer: Microsoft Office
 - :computer: Mircosoft Excel [VBA]
 - :computer: Mircosoft Spreadsheets [Advanced]
 
