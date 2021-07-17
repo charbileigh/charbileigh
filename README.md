@@ -18,8 +18,9 @@
 I am an experienced Project Coordinator with a demonstrated history of working in the information technology and services industry. Skilled in SolidWorks, Asset Management, Team Building and Blogging. I would describe myself as a sea trapped inside a water droplet because I have a vast array of experience outside of my university career. I am also interested in the medical field and I am not only focused on the information and technology sector.
 
 ![941429](https://user-images.githubusercontent.com/44195461/126048933-724589e7-8ede-4d1a-a8a7-9c0996a65107.jpg)
-
 ## My Tech Stack
+
+![1](https://user-images.githubusercontent.com/44195461/126049658-dc73611b-071e-4000-b400-55c1eccd675f.gif)
 
 - :computer: Matlab
 - :computer: Scilab
@@ -29,24 +30,27 @@ I am an experienced Project Coordinator with a demonstrated history of working i
 - :computer: Python
 - :computer: HTML
 - :computer: CSS
-- :computer: JavaSript
+- :computer: JavaSript    
 - :computer: React.JS
 - :computer: Markdown
 - :computer: Microsoft Offie
-- :computer: Mircosoft Spreadsheets Advanced
 - :computer: Mircosoft Excel [VBA]
+- :computer: Mircosoft Spreadsheets [Advanced]
 
 ![436383](https://user-images.githubusercontent.com/44195461/126049310-cdbf587d-9ccb-4794-82f5-a79c3e76a79f.jpg)
 
 
-## Specilization and Industrial Knowledge
 
-- :briefcase: Asset Management
+## Specilization and Industrial Knowledge
+![giphy](https://user-images.githubusercontent.com/44195461/126049668-0454deff-59a7-4080-a49a-2ef5ee970399.gif)
+
+
+- :briefcase: Asset Management  
 - :briefcase: Content Marketing
 - :briefcase: IT Services Management
-- :briefcase: Industrial Design
+- :briefcase: Industrial Design 
 - :briefcase: Cloud Computing
-- :briefcase: Business Intelligence
+- :briefcase: Business Intelligence 
 - :briefcase: Cybersecurity and Network Security
 - :briefcase: Fuzzy Logic
 
