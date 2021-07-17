@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on completing my BS in Mehanical and mechatronics engineering degree which is the equivalent of an Electromechanical major
 - 🌱 I’m currently learning Full-Stack Web Development, Robotics, Product design ,and Computer Sciences
 - 😄 Pronouns: She/her/hers
-- ⚡ Fun fact: I love cats and have an interest in disability studies and rehabilitation studies
+- ⚡ Fun fact: I love cats and have an interest in disability and rehabilitation studies
 - 📫 How to reach me: @charbileigh
 - 💬 Ask me about blogging, disability and rehabilitation studies, and asset management
 
