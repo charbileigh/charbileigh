@@ -84,6 +84,8 @@ I am an experienced Project Coordinator with a demonstrated history of working i
 
 
 ![anime girl wave](https://user-images.githubusercontent.com/44195461/126068011-1e2ac1ea-22bf-4640-b379-4845cd7ca15f.gif)
+![snake](https://user-images.githubusercontent.com/44195461/126070537-4917b556-c50d-458f-aa9e-9b93a9cafe63.gif)
+
 
 
 
