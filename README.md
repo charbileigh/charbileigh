@@ -33,6 +33,10 @@ I am an experienced Project Coordinator with a demonstrated history of working i
 ![icons8-markdown-16](https://user-images.githubusercontent.com/44195461/126067472-7172a6e2-f757-44b3-97be-34d84c229690.png)
 ![icons8-microsoft-excel-48](https://user-images.githubusercontent.com/44195461/126067474-0693b618-d7e2-4868-b093-109f6ad7217e.png)
 ![icons8-microsoft-office-2019-48](https://user-images.githubusercontent.com/44195461/126067476-d944b4a1-74ef-41f0-a7c0-345fb4111824.png)
+![icons8-c++-48](https://user-images.githubusercontent.com/44195461/126067648-adc20761-cc06-404e-a5f1-512a7f54447b.png)
+![icons8-markdown-48](https://user-images.githubusercontent.com/44195461/126067885-b58d2a67-f38a-4b14-9c68-e8c7dba6eefd.png)
+![icons8-angularjs-48](https://user-images.githubusercontent.com/44195461/126068162-cfd94f9e-8f25-4893-910d-dd0633b6c060.png)
+![icons8-nodejs-48](https://user-images.githubusercontent.com/44195461/126068167-70181b90-4390-4c4d-9807-423bee1eea01.png)
 
 
 
@@ -41,12 +45,16 @@ I am an experienced Project Coordinator with a demonstrated history of working i
 
 
 
-- :computer: Scilab
-- :computer: Octave
 
 
 
-![436383](https://user-images.githubusercontent.com/44195461/126049310-cdbf587d-9ccb-4794-82f5-a79c3e76a79f.jpg)
+
+
+
+![girl](https://user-images.githubusercontent.com/44195461/126067778-f5ef38c1-8177-464f-915d-dee8609aefd3.gif)
+![video21](https://user-images.githubusercontent.com/44195461/126067882-2dc492e6-02c2-4ba7-aa9c-284577eff8d3.gif)
+
+
 
 
 
@@ -57,11 +65,12 @@ I am an experienced Project Coordinator with a demonstrated history of working i
 - :briefcase: Asset Management  
 - :briefcase: Content Marketing
 - :briefcase: IT Services Management
-- :briefcase: Industrial Design 
+- :briefcase: Industrial and Product Design 
 - :briefcase: Cloud Computing
 - :briefcase: Business Intelligence 
 - :briefcase: Cybersecurity and Network Security
 - :briefcase: Fuzzy Logic
+- :briefcase: Computational and Fluid Dynamics [CFD]
 
 ![charbileigh's github stats](https://github-readme-stats.vercel.app/api?username=charbileigh)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charbileigh)](https://github.com/charbileigh/github-readme-stats)
@@ -72,7 +81,8 @@ I am an experienced Project Coordinator with a demonstrated history of working i
 
 ![415511](https://user-images.githubusercontent.com/44195461/126048133-b9652d5e-0835-44e4-b1b5-b42746af5e74.jpg)
 
-![847106](https://user-images.githubusercontent.com/44195461/126048249-f6c1acb0-bb5d-4ea7-a119-f8ec0c732d7c.jpg)
+![anime girl wave](https://user-images.githubusercontent.com/44195461/126068011-1e2ac1ea-22bf-4640-b379-4845cd7ca15f.gif)
+
 
 
 
