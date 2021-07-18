@@ -72,14 +72,16 @@ I am an experienced Project Coordinator with a demonstrated history of working i
 - :briefcase: Fuzzy Logic
 - :briefcase: Computational and Fluid Dynamics [CFD]
 
-![charbileigh's github stats](https://github-readme-stats.vercel.app/api?username=charbileigh)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charbileigh)](https://github.com/charbileigh/github-readme-stats)
+![charbileigh's GitHub stats](https://github-readme-stats.vercel.app/api?username=charbileigh&theme=midnight-purple&show_icons=true)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charbileigh&theme=midnight-purple&show_icons=true&layout=compact)](https://github.com/charbileigh/github-readme-stats)
 
 
 
 
 
 ![415511](https://user-images.githubusercontent.com/44195461/126048133-b9652d5e-0835-44e4-b1b5-b42746af5e74.jpg)
+
+## Goodbye, See You Soon ! :blush:
+
 
 ![anime girl wave](https://user-images.githubusercontent.com/44195461/126068011-1e2ac1ea-22bf-4640-b379-4845cd7ca15f.gif)
 
