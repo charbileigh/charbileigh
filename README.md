@@ -4,8 +4,8 @@
 # Hi there ![handwave](https://user-images.githubusercontent.com/44195461/126066548-2dfe54a6-3f30-4375-a152-7970b0b4963d.gif)
 
 
-- 🔭 I’m currently working on completing my BS in Mehanical and Mechatronics engineering degree which is the equivalent of an Electromechanical major
-- 🌱 I’m currently learning Full-Stack Web Development, Robotics, Product design ,and Computer Sciences
+- 🔭 I’m currently working on completing my BS in Mehanical and Mechatronics engineering degree 
+- 🌱 I’m currently learning Full-Stack Web Development, Robotics, Product design , Project Management, and Computer Sciences
 - 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: I love cats and have an interest in disability and rehabilitation studies
 - 📫 How to reach me: cesca.seopa@gmail.com
