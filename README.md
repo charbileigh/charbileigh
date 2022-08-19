@@ -75,8 +75,7 @@ I am an experienced Project Coordinator with a demonstrated history of working i
 ### Stats
 ---
  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=singatha&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D) ![Charbileigh's GitHub stats](https://github-readme-stats.vercel.app/api?username=charbileigh&show_icons=true&theme=midnight-purple)
-
-![charbileigh's GitHub stats](https://github-readme-stats.vercel.app/api?username=charbileigh&theme=midnight-purple&show_icons=true)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charbileigh&theme=midnight-purple&show_icons=true&layout=compact)](https://github.com/charbileigh/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charbileigh&theme=midnight-purple&show_icons=true&layout=compact)](https://github.com/charbileigh/github-readme-stats)
 
 
 
