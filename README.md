@@ -16,7 +16,7 @@
 
 ## About Me
 
-I am an experienced Project Coordinator with a demonstrated history of working in the information technology and services industry. Skilled in SolidWorks, Asset Management, Team Building and Blogging. I would describe myself as a sea trapped inside a water droplet because I have a vast array of experience outside of my university career. I am also interested in the medical field and I am not only focused on the information and technology sector.
+Making a difference one accessible technology at a time. Engineering solutions that strive for inclusivity and equitable access to bridge the disability divide. 😄😄
 
 ![941429](https://user-images.githubusercontent.com/44195461/126048933-724589e7-8ede-4d1a-a8a7-9c0996a65107.jpg)
 ## My Tech Stack
