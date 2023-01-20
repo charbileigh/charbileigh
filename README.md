@@ -23,18 +23,12 @@ Making a difference one accessible technology at a time. Engineering solutions t
 
 ![1](https://user-images.githubusercontent.com/44195461/126049658-dc73611b-071e-4000-b400-55c1eccd675f.gif)
 
-![icons8-matlab-48](https://user-images.githubusercontent.com/44195461/126067123-efa2423f-3eb8-492d-b11b-922db7952e40.png)![icons8-c-programming-48](https://user-images.githubusercontent.com/44195461/126067144-517d7fd1-8095-4079-a5f1-c98b118b2514.png)![icons8-python-48](https://user-images.githubusercontent.com/44195461/126067462-bc67b9c6-6ab0-428c-824e-96481470dce8.png)
-![icons8-react-native-48](https://user-images.githubusercontent.com/44195461/126067463-b49e41b1-6243-486c-942d-3a7521f3a51e.png)
-![icons8-vb-64](https://user-images.githubusercontent.com/44195461/126067466-88c60418-8187-4fd2-b0ac-5ae14026cdd2.png)
+![icons8-matlab-48](https://user-images.githubusercontent.com/44195461/126067123-efa2423f-3eb8-492d-b11b-922db7952e40.png)![icons8-c-programming-48](https://user-images.githubusercontent.com/44195461/126067144-517d7fd1-8095-4079-a5f1-c98b118b2514.png)
+![icons8-python-48](https://user-images.githubusercontent.com/44195461/126067462-bc67b9c6-6ab0-428c-824e-96481470dce8.png)
 ![icons8-css3-48](https://user-images.githubusercontent.com/44195461/126067467-360f62fd-42c5-49b8-b4b4-238e8077495f.png)
 ![icons8-html-5-48](https://user-images.githubusercontent.com/44195461/126067469-a8e31422-2fc1-4a3b-809e-2da8af4c52f0.png)
 ![icons8-javascript-48](https://user-images.githubusercontent.com/44195461/126067471-4d1d80c4-035a-4018-acaf-138032f8e2c3.png)
-![icons8-microsoft-excel-48](https://user-images.githubusercontent.com/44195461/126067474-0693b618-d7e2-4868-b093-109f6ad7217e.png)
 ![icons8-microsoft-office-2019-48](https://user-images.githubusercontent.com/44195461/126067476-d944b4a1-74ef-41f0-a7c0-345fb4111824.png)
-
-
-
-
 
 
 
@@ -65,8 +59,7 @@ Making a difference one accessible technology at a time. Engineering solutions t
 
 ### Stats
 ---
- ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=singatha&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D) ![Charbileigh's GitHub stats](https://github-readme-stats.vercel.app/api?username=charbileigh&show_icons=true&theme=midnight-purple)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charbileigh&theme=midnight-purple&show_icons=true&layout=compact)](https://github.com/charbileigh/github-readme-stats)
+ ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=singatha&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D) 
 
 
 
