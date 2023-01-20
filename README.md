@@ -29,13 +29,9 @@ Making a difference one accessible technology at a time. Engineering solutions t
 ![icons8-css3-48](https://user-images.githubusercontent.com/44195461/126067467-360f62fd-42c5-49b8-b4b4-238e8077495f.png)
 ![icons8-html-5-48](https://user-images.githubusercontent.com/44195461/126067469-a8e31422-2fc1-4a3b-809e-2da8af4c52f0.png)
 ![icons8-javascript-48](https://user-images.githubusercontent.com/44195461/126067471-4d1d80c4-035a-4018-acaf-138032f8e2c3.png)
-![icons8-markdown-16](https://user-images.githubusercontent.com/44195461/126067472-7172a6e2-f757-44b3-97be-34d84c229690.png)
 ![icons8-microsoft-excel-48](https://user-images.githubusercontent.com/44195461/126067474-0693b618-d7e2-4868-b093-109f6ad7217e.png)
 ![icons8-microsoft-office-2019-48](https://user-images.githubusercontent.com/44195461/126067476-d944b4a1-74ef-41f0-a7c0-345fb4111824.png)
-![icons8-c++-48](https://user-images.githubusercontent.com/44195461/126067648-adc20761-cc06-404e-a5f1-512a7f54447b.png)
-![icons8-markdown-48](https://user-images.githubusercontent.com/44195461/126067885-b58d2a67-f38a-4b14-9c68-e8c7dba6eefd.png)
-![icons8-angularjs-48](https://user-images.githubusercontent.com/44195461/126068162-cfd94f9e-8f25-4893-910d-dd0633b6c060.png)
-![icons8-nodejs-48](https://user-images.githubusercontent.com/44195461/126068167-70181b90-4390-4c4d-9807-423bee1eea01.png)
+
 
 
 
@@ -62,13 +58,9 @@ Making a difference one accessible technology at a time. Engineering solutions t
 
 
 - :briefcase: Asset Management  
-- :briefcase: Content Marketing
-- :briefcase: IT Services Management
+- :briefcase: Software Development and the Internet of Things
 - :briefcase: Industrial and Product Design 
 - :briefcase: Cloud Computing
-- :briefcase: Business Intelligence 
-- :briefcase: Cybersecurity and Network Security
-- :briefcase: Fuzzy Logic
 - :briefcase: Computational and Fluid Dynamics [CFD]
 
 ### Stats
