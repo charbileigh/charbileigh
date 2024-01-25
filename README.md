@@ -59,8 +59,7 @@ Making a difference one accessible technology at a time. Engineering solutions t
 
 ### Stats
 ---
- [![GitHub Streak](https://streak-stats.demolab.com/?user=charbileigh&theme=midnight-purple)](https://git.io/streak-stats)
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charbileigh&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+ [![Charbileigh's GitHub stats](https://github-readme-stats.vercel.app/api?username=charbileigh&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charbileigh&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
