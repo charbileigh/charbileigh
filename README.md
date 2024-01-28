@@ -41,7 +41,7 @@ Making a difference one accessible technology at a time. Engineering solutions t
 
 
 ![girl](https://user-images.githubusercontent.com/44195461/126067778-f5ef38c1-8177-464f-915d-dee8609aefd3.gif)
-![video21](https://user-images.githubusercontent.com/44195461/126067882-2dc492e6-02c2-4ba7-aa9c-284577eff8d3.gif)
+
 
 
 
