@@ -8,7 +8,7 @@
 - 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: I love cats and have an interest in disability and rehabilitation studies
 - 📫 How to reach me: cesca.seopa@gmail.com
-- 💬 Ask me about blogging, disability and rehabilitation studies, and asset management
+- 💬 Ask me about blogging, disability and rehabilitation studies, and software development 
 
 
 ![aboutmenew](https://user-images.githubusercontent.com/44195461/126047965-2a82f53e-3b48-4649-ba4d-52e5ac0edb79.gif)
@@ -51,10 +51,9 @@ Making a difference one accessible technology at a time. Engineering solutions t
 ![giphy](https://user-images.githubusercontent.com/44195461/126049668-0454deff-59a7-4080-a49a-2ef5ee970399.gif)
 
 
-- :briefcase: Asset Management  
+
 - :briefcase: Software Development and the Internet of Things
 - :briefcase: Industrial and Product Design 
-- :briefcase: Cloud Computing
 - :briefcase: Computational and Fluid Dynamics [CFD]
 
 ### Stats
