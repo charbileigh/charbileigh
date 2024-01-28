@@ -53,7 +53,7 @@ Making a difference one accessible technology at a time. Engineering solutions t
 
 
 - :briefcase: Software Development and the Internet of Things
-- :briefcase: Industrial and Product Design 
+- :briefcase: M2M Platforms 
 - :briefcase: Computational and Fluid Dynamics [CFD]
 
 ### Stats
