@@ -16,7 +16,7 @@
 
 ## About Me
 
-Making a difference one accessible technology at a time. Engineering solutions that strive for inclusivity and equitable access to bridge the disability divide. 😄😄
+Code warrior on a mission to change the world one line of code at a time, with a passion for disability and human rehabilitation. Making waves in the tech and disability sectors. 😄😄
 
 ![941429](https://user-images.githubusercontent.com/44195461/126048933-724589e7-8ede-4d1a-a8a7-9c0996a65107.jpg)
 ## My Tech Stack
@@ -53,7 +53,8 @@ Making a difference one accessible technology at a time. Engineering solutions t
 
 
 - :briefcase: Software Development and the Internet of Things
-- :briefcase: M2M Platforms 
+- :briefcase: M2M Platforms
+- :briefcase: Mechatronics Systems  
 - :briefcase: Computational and Fluid Dynamics [CFD]
 
 ### Stats
