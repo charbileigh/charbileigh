@@ -52,7 +52,8 @@ Code warrior on a mission to change the world one line of code at a time, with a
 
 
 
-- :briefcase: Software Development and the Internet of Things
+- :briefcase: Software Development 
+- 💼 The Internet of Things [IoT]
 - :briefcase: M2M Platforms
 - :briefcase: Mechatronics Systems  
 - :briefcase: Computational and Fluid Dynamics [CFD]
