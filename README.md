@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love cats and have an interest in disability and rehabilitation studies
 - 📫 How to reach me: cesca.seopa@gmail.com
 - 💬 Ask me about blogging, disability and rehabilitation studies, and software development
-- 
+
 ![about](https://github.com/charbileigh/charbileigh/assets/44195461/8407afa5-c4c2-4d79-9422-17850dfc2db8)
 
 
