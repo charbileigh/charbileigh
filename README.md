@@ -1,7 +1,8 @@
 ![Franesca](https://user-images.githubusercontent.com/44195461/126047903-9a520d1a-aa8e-4ad3-b1f9-acaa2c117a5a.png)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka&size=30&pause=1000&color=BC07F7&background=FFFFFF00&random=false&width=435&lines=Software+Developer+%3C(%CB%B6%E1%B5%94%E1%B5%95%E1%B5%94%CB%B6)%3E)](https://git.io/typing-svg)
 
-# Hi there ![handwave](https://user-images.githubusercontent.com/44195461/126066548-2dfe54a6-3f30-4375-a152-7970b0b4963d.gif)
+# Hi there !
 
 
 - 🔭 I’m a mechanical and mechatronics engineering graduate currently working on completing my postgraduate degree in disability and human rehabilitation studies. 
