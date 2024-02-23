@@ -8,10 +8,11 @@
 - 🔭 I’m a mechanical and mechatronics engineering graduate currently working on completing my postgraduate degree in disability and human rehabilitation studies. 
 - ⚡ Fun fact: I love cats and have an interest in disability and rehabilitation studies
 - 📫 How to reach me: cesca.seopa@gmail.com
-- 💬 Ask me about blogging, disability and rehabilitation studies, and software development 
+- 💬 Ask me about blogging, disability and rehabilitation studies, and software development
+- 
+![about](https://github.com/charbileigh/charbileigh/assets/44195461/8407afa5-c4c2-4d79-9422-17850dfc2db8)
 
 
-![aboutmenew](https://user-images.githubusercontent.com/44195461/126047965-2a82f53e-3b48-4649-ba4d-52e5ac0edb79.gif)
 
 
 ## About Me
