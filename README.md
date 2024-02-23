@@ -1,6 +1,6 @@
-![Franesca](https://user-images.githubusercontent.com/44195461/126047903-9a520d1a-aa8e-4ad3-b1f9-acaa2c117a5a.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka&size=30&pause=1000&color=BC07F7&background=FFFFFF00&random=false&width=435&lines=Software+Developer+%3C(%CB%B6%E1%B5%94%E1%B5%95%E1%B5%94%CB%B6)%3E)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka&size=100&pause=1000&color=F738E0&background=FFFFFF00&random=false&width=435&lines=Mmasechaba+Francesca+Seopa+%3C(%CB%B6%E1%B5%94%E1%B5%95%E1%B5%94%CB%B6)%3E)](https://git.io/typing-svg)
 
 # Hi there !
 
