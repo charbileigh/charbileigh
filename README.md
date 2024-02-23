@@ -14,7 +14,7 @@
 
 
 
-## About Me
+## 
 
 Code warrior on a mission to change the world one line of code at a time, with a passion for disability and human rehabilitation. Making waves in the tech and disability sectors. 😄😄
 
