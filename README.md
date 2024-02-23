@@ -65,7 +65,7 @@ Code warrior on a mission to change the world one line of code at a time, with a
 
 
 
-![415511](https://user-images.githubusercontent.com/44195461/126048133-b9652d5e-0835-44e4-b1b5-b42746af5e74.jpg)
+
 
 ## Goodbye, See You Soon ! :blush:
 
