@@ -1,12 +1,11 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka&size=100&pause=1000&color=F738E0&background=FFFFFF00&random=false&width=435&lines=Mmasechaba+Francesca+Seopa+%3C(%CB%B6%E1%B5%94%E1%B5%95%E1%B5%94%CB%B6)%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka&size=30&pause=901&color=F738E0&background=FFFFFF00&random=false&width=435&lines=Mmasechaba+J.F+Seopa+(%CB%B6%E1%B5%94%E1%B5%95%E1%B5%94%CB%B6))](https://git.io/typing-svg)
 
 # Hi there !
 
 
 - 🔭 I’m a mechanical and mechatronics engineering graduate currently working on completing my postgraduate degree in disability and human rehabilitation studies. 
-- 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: I love cats and have an interest in disability and rehabilitation studies
 - 📫 How to reach me: cesca.seopa@gmail.com
 - 💬 Ask me about blogging, disability and rehabilitation studies, and software development 
