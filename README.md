@@ -27,7 +27,6 @@ Code warrior on a mission to change the world one line of code at a time, with a
 ![icons8-css3-48](https://user-images.githubusercontent.com/44195461/126067467-360f62fd-42c5-49b8-b4b4-238e8077495f.png)
 ![icons8-html-5-48](https://user-images.githubusercontent.com/44195461/126067469-a8e31422-2fc1-4a3b-809e-2da8af4c52f0.png)
 ![icons8-javascript-48](https://user-images.githubusercontent.com/44195461/126067471-4d1d80c4-035a-4018-acaf-138032f8e2c3.png)
-![icons8-microsoft-office-2019-48](https://user-images.githubusercontent.com/44195461/126067476-d944b4a1-74ef-41f0-a7c0-345fb4111824.png)
 
 
 
