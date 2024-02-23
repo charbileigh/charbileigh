@@ -18,10 +18,9 @@
 
 Code warrior on a mission to change the world one line of code at a time, with a passion for disability and human rehabilitation. Making waves in the tech and disability sectors. 😄😄
 
-![941429](https://user-images.githubusercontent.com/44195461/126048933-724589e7-8ede-4d1a-a8a7-9c0996a65107.jpg)
 ## My Tech Stack
 
-![1](https://user-images.githubusercontent.com/44195461/126049658-dc73611b-071e-4000-b400-55c1eccd675f.gif)
+
 
 ![icons8-matlab-48](https://user-images.githubusercontent.com/44195461/126067123-efa2423f-3eb8-492d-b11b-922db7952e40.png)
 ![icons8-python-48](https://user-images.githubusercontent.com/44195461/126067462-bc67b9c6-6ab0-428c-824e-96481470dce8.png)
