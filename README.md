@@ -1,6 +1,5 @@
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka&size=30&pause=901&color=F738E0&background=FFFFFF00&random=false&width=435&lines=Mmasechaba+J.F+Seopa+(%CB%B6%E1%B5%94%E1%B5%95%E1%B5%94%CB%B6))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka&size=30&pause=901&color=FFA7A6&multiline=true&random=false&width=435&lines=Mmasechaba+J.F+Seopa+(%CB%B6%E1%B5%94%E1%B5%95%E1%B5%94%CB%B6))](https://git.io/typing-svg)
 
 # Hi there !
 
