@@ -1,7 +1,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka&size=30&pause=901&color=FFA7A6&multiline=true&random=false&width=435&lines=Mmasechaba+J.F+Seopa+(%CB%B6%E1%B5%94%E1%B5%95%E1%B5%94%CB%B6))](https://git.io/typing-svg)
 
-# Hi there !
+# Hi there ! 👋
+
 
 
 - 🔭 I’m a mechanical and mechatronics engineering graduate currently working on completing my postgraduate degree in disability and human rehabilitation studies. 
@@ -10,15 +11,16 @@
 - 💬 Ask me about blogging, disability and rehabilitation studies, and software development
 
 ![about](https://github.com/charbileigh/charbileigh/assets/44195461/8407afa5-c4c2-4d79-9422-17850dfc2db8)
+---
 
 
 
 
-## 
+
 
 Code warrior on a mission to change the world one line of code at a time, with a passion for disability and human rehabilitation. Making waves in the tech and disability sectors. 😄😄
 
-## My Tech Stack
+## My Tech Stack 💻
 
 
 
@@ -45,7 +47,8 @@ Code warrior on a mission to change the world one line of code at a time, with a
 
 
 
-## Specilization and Industrial Knowledge
+## Specilization and Industrial Knowledge 🛠️
+
 ![giphy](https://user-images.githubusercontent.com/44195461/126049668-0454deff-59a7-4080-a49a-2ef5ee970399.gif)
 
 
@@ -55,18 +58,15 @@ Code warrior on a mission to change the world one line of code at a time, with a
 - :briefcase: M2M Platforms
 - :briefcase: Computational and Fluid Dynamics [CFD]
 
-### Stats
----
+
+## Stats 📈
+
  [![Charbileigh's GitHub stats](https://github-readme-stats.vercel.app/api?username=charbileigh&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charbileigh&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
-
-
-
 ## Goodbye, See You Soon ! :blush:
+
 
 
 ![anime girl wave](https://user-images.githubusercontent.com/44195461/126068011-1e2ac1ea-22bf-4640-b379-4845cd7ca15f.gif)
