@@ -4,21 +4,12 @@
 # Hi there ! 👋
 
 
-I am a code warrior on a mission to change the world one line of code at a time, with a passion for disability and human rehabilitation. 
-I am making waves in the technology and disability industries, juggling software development, project management and freelance writing. 
-From designing elegant user interfaces to writing compelling stories and orchestrating projects that bridge the gap between technology and accessibility, this multitasking wonder is redefining the future one groundbreaking project at a time.
-
-
 
 ![about](https://github.com/charbileigh/charbileigh/assets/44195461/8407afa5-c4c2-4d79-9422-17850dfc2db8)
 ---
 
 
-
-
-
-
-Code warrior on a mission to change the world one line of code at a time, with a passion for disability and human rehabilitation. Making waves in the tech and disability sectors. 😄😄
+I am a code warrior on a mission to change the world one line of code at a time, with a passion for disability and human rehabilitation. I am making waves in the technology and disability industries, juggling software development, project management and freelance writing. From designing elegant user interfaces to writing compelling stories and orchestrating projects that bridge the gap between technology and accessibility, this multitasking wonder is redefining the future one groundbreaking project at a time. 😄😄
 
 ## My Tech Stack 💻
 
