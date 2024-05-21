@@ -50,6 +50,7 @@ I am a code warrior on a mission to change the world one line of code at a time,
 - 💼 The Internet of Things [IoT]
 - :briefcase: M2M Platforms
 - :briefcase: Computational and Fluid Dynamics [CFD]
+- - 💼 Disability and Rehabilitation Studies
 
 
 ## Stats 📈
