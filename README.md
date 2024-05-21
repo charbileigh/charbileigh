@@ -9,7 +9,9 @@
 ---
 
 
-I am a code warrior on a mission to change the world one line of code at a time, with a passion for disability and human rehabilitation. I am making waves in the technology and disability industries, juggling software development, project management and freelance writing. From designing elegant user interfaces to writing compelling stories and orchestrating projects that bridge the gap between technology and accessibility, this multitasking wonder is redefining the future one groundbreaking project at a time. 😄😄
+🌸🌸
+I am a code warrior on a mission to change the world one line of code at a time, with a passion for disability and human rehabilitation. I am making waves in the technology and disability industries, juggling software development, project management and freelance writing. From designing elegant user interfaces to writing compelling stories and orchestrating projects that bridge the gap between technology and accessibility, this multitasking wonder is redefining the future one groundbreaking project at a time. 
+🌸🌸
 
 ## My Tech Stack 💻
 
