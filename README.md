@@ -6,6 +6,8 @@
 
 
 ![about](https://github.com/charbileigh/charbileigh/assets/44195461/8407afa5-c4c2-4d79-9422-17850dfc2db8)
+
+![](https://komarev.com/ghpvc/?username=charbileigh)
 ---
 
 
