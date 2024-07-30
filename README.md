@@ -51,7 +51,7 @@ I am a code warrior on a mission to change the world one line of code at a time,
 
 
 
-- :briefcase: Computational and Fluid Dynamics [CFD]
+- :briefcase: Software Quality Assurance Testing 
 - 💼 Disability and Rehabilitation Studies
 - :briefcase: M2M Platforms
 - :briefcase: Software Development 
