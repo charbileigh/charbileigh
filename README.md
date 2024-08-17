@@ -13,7 +13,9 @@
 
 
 🌸🌸
-I am a code warrior on a mission to change the world one line of code at a time, with a passion for disability and human rehabilitation. I am making waves in the technology and disability industries, juggling software development, project management and freelance writing. From designing elegant user interfaces to writing compelling stories and orchestrating projects that bridge the gap between technology and accessibility, this multitasking wonder is redefining the future one groundbreaking project at a time. 
+As a dedicated code warrior and tester, I am committed to transforming the world through the power of programming and quality assurance testing, one line of code at a time. My fervour lies at the intersection of technology and human rehabilitation, where I am actively shaping the landscape of both the technology and disability sectors. 
+
+My expertise spans across software development, quality assurance testing, project management, and freelance writing. I excel in crafting sophisticated user interfaces, testing interfaces, weaving engaging narratives, and managing innovative projects that seamlessly integrate technology with accessibility. I believe that I am a multifaceted professional on a quest to redefine the future, pioneering one groundbreaking project after another.
 🌸🌸
 
 ## My Tech Stack 💻
