@@ -13,9 +13,9 @@
 
 
 🌸🌸
-As a dedicated code warrior and tester, I am committed to transforming the world through the power of programming and quality assurance testing, one line of code at a time. My fervour lies at the intersection of technology and human rehabilitation, where I am actively shaping the landscape of both the technology and disability sectors. 
+I am a Junior software developer/tester with a Bachelor of Science in Mechanical and Mechatronics Engineering and a Postgraduate Diploma in Disability Studies from the University of Cape Town (UCT).
 
-My expertise spans across software development, quality assurance testing, project management, and freelance writing. I excel in crafting sophisticated user interfaces, testing interfaces, weaving engaging narratives, and managing innovative projects that seamlessly integrate technology with accessibility. I believe that I am a multifaceted professional on a quest to redefine the future, pioneering one groundbreaking project after another.
+My expertise spans software development, quality assurance testing, project management, and freelance writing. I excel at designing sophisticated user interfaces, testing interfaces, writing compelling narratives, and managing innovative projects that seamlessly blend technology and accessibility. I am a well-rounded professional who wants to redefine the future, launching one groundbreaking project after another.
 🌸🌸
 
 ## My Tech Stack 💻
