@@ -13,9 +13,11 @@
 
 
 🌸🌸
-I am a Junior software developer/tester with a Bachelor of Science in Mechanical and Mechatronics Engineering and a Postgraduate Diploma in Disability Studies from the University of Cape Town (UCT).
+I am a software tester with a Bachelor of Science in Mechanical and Mechatronics Engineering and a Postgraduate Diploma in Disability Studies from the University of Cape Town (UCT).
 
 My expertise spans software development, quality assurance testing, project management, and freelance writing. I excel at designing sophisticated user interfaces, testing interfaces, writing compelling narratives, and managing innovative projects that seamlessly blend technology and accessibility. I am a well-rounded professional who wants to redefine the future, launching one groundbreaking project after another.
+
+I ensure the quality and functionality of software systems and contribute to data development. My work includes testing applications, and configuring software to meet business requirements. I work closely with various teams to ensure that everything runs smoothly and delivers high quality results that meet our objectives.
 🌸🌸
 
 ## My Tech Stack 💻
@@ -55,9 +57,8 @@ My expertise spans software development, quality assurance testing, project mana
 
 - :briefcase: Software Quality Assurance Testing 
 - 💼 Disability and Rehabilitation Studies
-- :briefcase: M2M Platforms
 - :briefcase: Software Development 
-- 💼 The Internet of Things [IoT]
+
  
 
 
