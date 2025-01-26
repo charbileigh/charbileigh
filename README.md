@@ -56,8 +56,9 @@ I ensure the quality and functionality of software systems and contribute to dat
 
 
 - :briefcase: Software Quality Assurance Testing 
-- 💼 Disability and Rehabilitation Studies
-- :briefcase: Software Development 
+- 💼 Disability Studies
+- :briefcase: Software Development
+- :briefcase: Data Development 
 
  
 
