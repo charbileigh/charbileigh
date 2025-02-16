@@ -13,11 +13,15 @@
 
 
 🌸🌸
-I am a software tester with a Bachelor of Science in Mechanical and Mechatronics Engineering and a Postgraduate Diploma in Disability Studies from the University of Cape Town (UCT).
+I am a friendly and passionate individual with a diverse set of interests and skills. Professionally, I work as a QA Tester and Application Support specialist. I have a keen eye for detail and a strong understanding of software testing and troubleshooting. I am constantly looking for ways to improve processes and deliver the best possible results.
 
-My expertise spans software development, quality assurance testing, project management, and freelance writing. I excel at designing sophisticated user interfaces, testing interfaces, writing compelling narratives, and managing innovative projects that seamlessly blend technology and accessibility. I am a well-rounded professional who wants to redefine the future, launching one groundbreaking project after another.
+One of my biggest passions is data development. I love diving into complex data sets and uncovering insights that can drive business growth and success. I am always eager to learn new tools and techniques to enhance my skills in this field.
 
-I ensure the quality and functionality of software systems and contribute to data development. My work includes testing applications, and configuring software to meet business requirements. I work closely with various teams to ensure that everything runs smoothly and delivers high quality results that meet our objectives.
+In my career, I have had the opportunity to work with various industries and organizations, which has given me a well-rounded understanding of the tech world. My experience has taught me the importance of adaptability and problem-solving, which I bring to every project I work on.
+
+I am a firm believer in continuous learning and growth. I am always seeking new challenges and opportunities to expand my knowledge and skills. I hold a Bachelor of Science in Mechanical and Mechatronic Engineering and a Postgraduate Degree in Disability Studies from the University of Cape Town (UCT). 
+
+My biggest hobby is knitting. There is something so therapeutic about creating beautiful pieces with just a set of needles and yarn. It also allows me to unleash my creativity and produce unique designs.
 🌸🌸
 
 ## My Tech Stack 💻
