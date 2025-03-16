@@ -13,15 +13,11 @@
 
 
 🌸🌸
-I am a friendly and passionate individual with a diverse set of interests and skills. Professionally, I work as a QA Tester and Application Support specialist. I have a keen eye for detail and a strong understanding of software testing and troubleshooting. I am constantly looking for ways to improve processes and deliver the best possible results.
+I am a friendly and passionate individual with diverse interests and skills. Professionally, I work as a QA Tester and Application Support specialist. I have a keen eye for detail and a strong understanding of software testing and troubleshooting. I am constantly looking for ways to improve processes and achieve the best possible results.
 
-One of my biggest passions is data development. I love diving into complex data sets and uncovering insights that can drive business growth and success. I am always eager to learn new tools and techniques to enhance my skills in this field.
+In my career, I have had the opportunity to work with various industries and organisations, which has given me a comprehensive understanding of the tech world. My experience has taught me the importance of adaptability and problem-solving, and I bring that to every project I work on.
 
-In my career, I have had the opportunity to work with various industries and organizations, which has given me a well-rounded understanding of the tech world. My experience has taught me the importance of adaptability and problem-solving, which I bring to every project I work on.
-
-I am a firm believer in continuous learning and growth. I am always seeking new challenges and opportunities to expand my knowledge and skills. I hold a Bachelor of Science in Mechanical and Mechatronic Engineering and a Postgraduate Degree in Disability Studies from the University of Cape Town (UCT). 
-
-My biggest hobby is knitting. There is something so therapeutic about creating beautiful pieces with just a set of needles and yarn. It also allows me to unleash my creativity and produce unique designs.
+I am a firm believer in the importance of constant learning and growth. I am always looking for new challenges and opportunities to expand my knowledge and skills. I hold a Bachelor of Science in Mechanical and Mechatronic Engineering and a Postgraduate Degree in Disability Studies from the University of Cape Town (UCT).
 🌸🌸
 
 ## My Tech Stack 💻
