@@ -49,7 +49,8 @@ I am a firm believer in the importance of constant learning and growth. I am alw
 
 ## Specilization and Industrial Knowledge 🛠️
 
-![giphy](https://user-images.githubusercontent.com/44195461/126049668-0454deff-59a7-4080-a49a-2ef5ee970399.gif)
+![giphy](https://i.pinimg.com/originals/16/c2/41/16c24137ad4ce2e32a3eb1b8c4a659aa.gif)
+
 
 
 
