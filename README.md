@@ -56,8 +56,10 @@ I am a firm believer in the importance of constant learning and growth. I am alw
 
 
 
-- :briefcase: Software Quality Assurance Testing // :briefcase: Software Development
-- :briefcase: Data Development // :briefcase: Disability Studies
+- :briefcase: Software Quality Assurance Testing 
+- :briefcase: Software Development
+- :briefcase: Data Development
+- :briefcase: Disability Studies
 
  
 
