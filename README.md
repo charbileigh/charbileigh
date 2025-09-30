@@ -1,6 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=28&pause=1000&color=FFA7A6&width=435&lines=Chabi+Francesca+Seopa+(%CB%B6%CB%83+%E1%B5%95+%CB%82%CB%B6);%E0%B4%A6%E0%B5%8D%E0%B4%A6%E0%B4%BF(%CB%B5+%E2%80%A2%CC%80+%E1%B4%97+-+%CB%B5+)+%E2%9C%A7)](https://git.io/typing-svg)
-
-
 # Hi there ! 👋
 
 
