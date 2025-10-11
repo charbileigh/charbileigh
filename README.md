@@ -15,7 +15,7 @@ I am a friendly and passionate individual with diverse interests and skills. Pro
 
 In my career, I have had the opportunity to work with various industries and organisations, which has given me a comprehensive understanding of the tech world. My experience has taught me the importance of adaptability and problem-solving, and I bring that to every project I work on.
 
-I am a firm believer in the importance of constant learning and growth. I am always looking for new challenges and opportunities to expand my knowledge and skills. I hold a Bachelor of Science in Mechanical and Mechatronic Engineering and a Postgraduate Degree in Disability Studies from the University of Cape Town (UCT).
+I am a firm believer in the importance of constant learning and growth. I am always looking for new challenges and opportunities to expand my knowledge and skills. I hold a Bachelor of Science in Mechanical and Mechatronic Engineering and a Postgraduate Degree in Disability Studies from the University of Cape Town (UCT). Currently a Master of Commerce (MCom) candidate. 
 🌸🌸
 
 ## My Tech Stack 💻
