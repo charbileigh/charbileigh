@@ -29,7 +29,8 @@ Currently studying towards a Master's in Information Systems.
 🌸🌸
 ```
 
-![code](https://github.com/user-attachments/assets/2aac51be-0adb-4040-9250-fda66681eabe)
+![tech girl](https://github.com/user-attachments/assets/7f4f8179-d3ee-4bc6-a45c-bc4176bbe010)
+
 
 
 ![](https://komarev.com/ghpvc/?username=charbileigh&color=ff69b4)
