@@ -1,6 +1,7 @@
 
 
-![jello](https://github.com/user-attachments/assets/b19f84ec-b818-4dcf-83bb-d0442dfa021e)
+![jello](https://github.com/user-attachments/assets/b19f84ec-b818-4dcf-83bb-d0442dfa021e) ![giphy](https://github.com/user-attachments/assets/726eab29-cb72-4f9b-928f-e9c4dcf15346)
+
 
 ![about](https://github.com/charbileigh/charbileigh/assets/44195461/8407afa5-c4c2-4d79-9422-17850dfc2db8)
 
