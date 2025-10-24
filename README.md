@@ -25,15 +25,12 @@ Currently studying towards a Master's in Information Systems.
 
 ## My Tech Stack 💻
 
+### Languages and Frameworks
 
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)  [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)  [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)  [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![Scratch](https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff)](#)  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)  [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)  [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)  [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#)
 
-![icons8-matlab-48](https://user-images.githubusercontent.com/44195461/126067123-efa2423f-3eb8-492d-b11b-922db7952e40.png)
-![icons8-python-48](https://user-images.githubusercontent.com/44195461/126067462-bc67b9c6-6ab0-428c-824e-96481470dce8.png)
-![icons8-css3-48](https://user-images.githubusercontent.com/44195461/126067467-360f62fd-42c5-49b8-b4b4-238e8077495f.png)
-![icons8-html-5-48](https://user-images.githubusercontent.com/44195461/126067469-a8e31422-2fc1-4a3b-809e-2da8af4c52f0.png)
-![icons8-javascript-48](https://user-images.githubusercontent.com/44195461/126067471-4d1d80c4-035a-4018-acaf-138032f8e2c3.png)
-
-
+### Testing Stack
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)
 
 
 
