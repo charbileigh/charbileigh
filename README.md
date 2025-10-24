@@ -1,6 +1,7 @@
 
 
-![jello](https://github.com/user-attachments/assets/b19f84ec-b818-4dcf-83bb-d0442dfa021e) 
+
+![hi](https://github.com/user-attachments/assets/29c226b3-bf36-4bf7-878a-153e7c181650)
 
 
 ![about](https://github.com/charbileigh/charbileigh/assets/44195461/8407afa5-c4c2-4d79-9422-17850dfc2db8)
@@ -27,6 +28,9 @@ Currently studying towards a Master's in Information Systems.
 
 🌸🌸
 ```
+
+![code](https://github.com/user-attachments/assets/2aac51be-0adb-4040-9250-fda66681eabe)
+
 
 ![](https://komarev.com/ghpvc/?username=charbileigh&color=ff69b4)
 
