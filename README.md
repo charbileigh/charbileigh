@@ -16,7 +16,7 @@ I am a friendly and passionate individual with diverse interests and skills.
 Professionally, I work as a QA Tester and Business / Customer Support specialist. 
 I am a firm believer in the importance of constant learning and growth.
 I am always looking for new challenges and opportunities to expand my technical knowledge and skills.
-I hold a Bachelor of Science in Mechanical and Mechatronic Engineering,
+I hold a Bachelor of Science (Hons) in Mechanical and Mechatronic Engineering,
 and a Postgraduate Degree in Disability Studies from the University of Cape Town (UCT).
 Currently studying towards a Master's in Information Systems.
 
