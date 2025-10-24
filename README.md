@@ -15,7 +15,7 @@ I am a friendly and passionate individual with diverse interests and skills. Pro
 
 In my career, I have had the opportunity to work with various industries and organisations, which has given me a comprehensive understanding of the tech world. My experience has taught me the importance of adaptability and problem-solving, and I bring that to every project I work on.
 
-I am a firm believer in the importance of constant learning and growth. I am always looking for new challenges and opportunities to expand my technical knowledge and skills. I hold a Bachelor of Science in Mechanical and Mechatronic Engineering and a Postgraduate Degree in Disability Studies from the University of Cape Town (UCT). Currently a Master's candidate. 
+I am a firm believer in the importance of constant learning and growth. I am always looking for new challenges and opportunities to expand my technical knowledge and skills. I hold a Bachelor of Science in Mechanical and Mechatronic Engineering and a Postgraduate Degree in Disability Studies from the University of Cape Town (UCT). Currently studying towards a Master's. 
 🌸🌸
 
 ## My Tech Stack 💻
@@ -53,12 +53,12 @@ I am a firm believer in the importance of constant learning and growth. I am alw
 
 
 
-
-- :briefcase: Software Quality Assurance Testing 
-- :briefcase: Software Development
-- :briefcase: Data Development
-- :briefcase: Disability Studies
-
+```
+- Software Quality Assurance Testing 
+- Software Development
+- Data Development
+- Disability Studies
+```
  
 
  
