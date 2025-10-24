@@ -7,7 +7,7 @@
 ![giphy](https://github.com/user-attachments/assets/726eab29-cb72-4f9b-928f-e9c4dcf15346)
 
 
-
+```
 🌸🌸  
 I am a friendly and passionate individual with diverse interests and skills.  
 Professionally, I work as a QA Tester and Business / Customer Support Specialist.  
@@ -17,7 +17,7 @@ I hold a Bachelor of Science (Hons) in Mechanical and Mechatronic Engineering,
 and a Postgraduate Degree in Disability Studies from the University of Cape Town (UCT).  
 Currently studying towards a Master's in Information Systems.  
 🌸🌸  
-
+```
 ![tech girl](https://github.com/user-attachments/assets/7f4f8179-d3ee-4bc6-a45c-bc4176bbe010)
 
 ![](https://komarev.com/ghpvc/?username=charbileigh&color=ff69b4)
