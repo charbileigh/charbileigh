@@ -6,7 +6,7 @@
 
 ![giphy](https://github.com/user-attachments/assets/726eab29-cb72-4f9b-928f-e9c4dcf15346)
 
----
+
 
 🌸🌸  
 I am a friendly and passionate individual with diverse interests and skills.  
