@@ -18,7 +18,7 @@ and a Postgraduate Degree in Disability Studies from the University of Cape Town
 Currently studying towards a Master's in Information Systems.  
 🌸🌸  
 ```
-![tech girl](https://github.com/user-attachments/assets/7f4f8179-d3ee-4bc6-a45c-bc4176bbe010) ![code 1](https://github.com/user-attachments/assets/d17303f3-52f0-4d9d-8e3d-ff89d5551fc6)
+![code 1](https://github.com/user-attachments/assets/d17303f3-52f0-4d9d-8e3d-ff89d5551fc6)
 
 
 ![](https://komarev.com/ghpvc/?username=charbileigh&color=ff69b4)
