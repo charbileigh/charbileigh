@@ -43,7 +43,7 @@ Currently studying towards a Master's in Information Systems.
 
 
 
-### 🧪 Testing Stack
+### 🌸 Testing Stack
 
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)
 [![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=fff)](#)
