@@ -15,7 +15,7 @@ I am a firm believer in the importance of constant learning and growth.
 I am always looking for new challenges and opportunities to expand my technical knowledge and skills.  
 I hold a Bachelor of Science (Hons) in Mechanical and Mechatronic Engineering,  
 and a Postgraduate Degree in Disability Studies from the University of Cape Town (UCT).  
-Currently studying towards a Master's in Information Systems.  
+Currently studying towards a Tech Master's degree.  
 🌸🌸  
 ```
 ![code 1](https://github.com/user-attachments/assets/d17303f3-52f0-4d9d-8e3d-ff89d5551fc6)
