@@ -58,7 +58,7 @@ and a Postgraduate Degree in Disability Studies from the University of Cape Town
 ```
 🌸🌸 
 Software Testing
-Disability Rehabilitation Studies
+Disability Studies
 Software Development
 🌸🌸 
 ```
