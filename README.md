@@ -70,6 +70,10 @@ Technical Systems Analysis
 ## 📈 My Tech Stats
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=charbileigh&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D)
+![](https://github-readme-stats.shion.dev/api?username=charbileigh&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=singatha&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 
 
