@@ -61,6 +61,7 @@ Software Testing
 Business Analysis
 Disability Studies
 Software Development
+Configuration Engineering
 Technical Systems Analysis
 🌸🌸 
 ```
