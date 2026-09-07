@@ -72,7 +72,8 @@ Technical Systems Analysis
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=charbileigh&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D)
 ![](https://github-readme-stats.shion.dev/api?username=charbileigh&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=charbileigh&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-stats-extended.vercel.app/api/top-langs?username=charbileigh&langs_count=4&theme=midnight-purple) 
+
 
 
 
