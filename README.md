@@ -65,9 +65,7 @@ Currently studying towards my Master of Commerce in Information Systems at UCT.
 [![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=fff)](#)
 
 
-
-
-
+<img src="./assets/pink-girl.gif" alt="Animated programmer in shades of pink" width="500" />
 
 
 
