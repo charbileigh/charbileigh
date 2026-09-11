@@ -33,6 +33,15 @@ Currently studying towards my Master of Commerce in Information Systems at UCT.
 
 
 
+## 🎛️ Control Room, But Make It Pink
+
+<a href="https://codepen.io/Francesca4/pen/QwpKwdE">
+  <img src="./assets/c3-control-room-pink.gif" alt="Pink animated C3 control room with a moving robot and responsive displays" width="640" />
+</a>
+
+<sub>Animated from my original <a href="https://codepen.io/Francesca4/pen/QwpKwdE">C3 CodePen</a>.</sub>
+
+
 ## 💻 My Tech Stack
 
 ### 🌸 Languages and Frameworks
