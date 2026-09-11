@@ -22,6 +22,17 @@ Currently studying towards my Master of Commerce in Information Systems at UCT.
 ![](https://komarev.com/ghpvc/?username=charbileigh&color=ff69b4)
 
 
+## 🌸 My Contribution Garden
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charbileigh/charbileigh/output/pink-contribution-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charbileigh/charbileigh/output/pink-contribution-snake.svg" />
+  <img alt="A pink snake moving through Chabi's GitHub contribution garden" src="https://raw.githubusercontent.com/charbileigh/charbileigh/output/pink-contribution-snake.svg" width="100%" />
+</picture>
+
+<sub>A tiny pink snake tending to my contribution garden, refreshed daily.</sub>
+
+
 
 ## 💻 My Tech Stack
 
