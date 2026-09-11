@@ -1,6 +1,6 @@
 <div align="center">
 
-![hi](https://github.com/user-attachments/assets/29c226b3-bf36-4bf7-878a-153e7c181650)
+<img src="./assets/pink-hi.svg" alt="Hi! Welcome to my GitHub garden" width="100%" />
 
 ![about](https://github.com/charbileigh/charbileigh/assets/44195461/8407afa5-c4c2-4d79-9422-17850dfc2db8)
 
@@ -92,7 +92,7 @@ Technical Systems Analysis
 
 ## 👋 Goodbye, See You Soon!
 
-![anime girl wave](https://user-images.githubusercontent.com/44195461/126068011-1e2ac1ea-22bf-4640-b379-4845cd7ca15f.gif)  
+<img src="./assets/pink-goodbye.svg" alt="Goodbye! Thanks for stopping by" width="100%" />
 
 
 </div>
