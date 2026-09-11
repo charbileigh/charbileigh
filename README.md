@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="./assets/pink-hi.svg" alt="Hi! Welcome to my GitHub garden" width="100%" />
 
 
-
+![giphy](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3N0OTF3YzU1bHlqaWljOHJoZ2tqejNzaG9idnVlemoydHYxYjE1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fkT57wKWNBgGd78inC/giphy.gif)
 ![giphy](https://github.com/user-attachments/assets/726eab29-cb72-4f9b-928f-e9c4dcf15346)
 
 
@@ -98,7 +97,7 @@ Technical Systems Analysis
 
 
 
-<img src="./assets/pink-goodbye.svg" alt="Goodbye! Thanks for stopping by" width="100%" />
+![giphy](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BuNmYxaG00YXo0b2hvaW16OWV6bTZtdGZ5OGY5a2NtN2lwNmNtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Bht33KS4YXaHS5ABOP/giphy.gif)
 
 
 </div>
