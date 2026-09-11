@@ -66,7 +66,7 @@ Currently studying towards my Master of Commerce in Information Systems at UCT.
 
 
 
-![girl](https://user-images.githubusercontent.com/44195461/126067778-f5ef38c1-8177-464f-915d-dee8609aefd3.gif)
+
 
 
 
