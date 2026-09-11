@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Hi!</title>
+  <desc id="desc">An animated pink greeting with floating flowers and sparkles.</desc>
+  <defs>
+    <linearGradient id="hi-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff8fc"/>
+      <stop offset="0.48" stop-color="#ffeaf4"/>
+      <stop offset="1" stop-color="#ffc5df"/>
+    </linearGradient>
+    <linearGradient id="hi-word" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#9b1757"/>
+      <stop offset="0.52" stop-color="#ed177f"/>
+      <stop offset="1" stop-color="#ff4fa3"/>
+    </linearGradient>
+    <pattern id="hi-grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ed177f" stroke-opacity=".08"/>
+    </pattern>
+    <filter id="hi-shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="8" stdDeviation="0" flood-color="#24131e" flood-opacity=".16"/>
+    </filter>
+    <style>
+      .bob { animation: hi-bob 2.8s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      .twinkle { animation: hi-twinkle 1.8s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      .twinkle.two { animation-delay: -.65s; }
+      .twinkle.three { animation-delay: -1.2s; }
+      .float-one { animation: hi-float-one 5.5s ease-in-out infinite; }
+      .float-two { animation: hi-float-two 6.3s ease-in-out infinite; }
+      .wave { animation: hi-wave 2.2s ease-in-out infinite; transform-box: fill-box; transform-origin: 50% 85%; }
+      @keyframes hi-bob { 0%,100% { transform: translateY(0) rotate(-1deg); } 50% { transform: translateY(-9px) rotate(1deg); } }
+      @keyframes hi-twinkle { 0%,100% { opacity:.35; transform:scale(.72) rotate(0deg); } 50% { opacity:1; transform:scale(1.08) rotate(35deg); } }
+      @keyframes hi-float-one { 0%,100% { transform:translate(0,0) rotate(-7deg); } 50% { transform:translate(18px,-13px) rotate(10deg); } }
+      @keyframes hi-float-two { 0%,100% { transform:translate(0,0) rotate(8deg); } 50% { transform:translate(-20px,11px) rotate(-8deg); } }
+      @keyframes hi-wave { 0%,100% { transform:rotate(-7deg); } 50% { transform:rotate(9deg); } }
+      @media (prefers-reduced-motion: reduce) {
+        .bob,.twinkle,.float-one,.float-two,.wave { animation:none; }
+      }
+    </style>
+  </defs>
+
+  <rect x="8" y="8" width="1184" height="284" rx="42" fill="#24131e" opacity=".16"/>
+  <rect x="8" y="2" width="1184" height="284" rx="42" fill="url(#hi-bg)" stroke="#24131e" stroke-width="6"/>
+  <rect x="11" y="5" width="1178" height="278" rx="38" fill="url(#hi-grid)"/>
+
+  <g class="float-one">
+    <g transform="translate(112 86)" fill="#ff79b8" stroke="#24131e" stroke-width="4">
+      <circle cy="-27" r="22"/><circle cx="26" cy="-8" r="22"/><circle cx="16" cy="23" r="22"/><circle cx="-16" cy="23" r="22"/><circle cx="-26" cy="-8" r="22"/>
+      <circle r="17" fill="#fff067"/>
+    </g>
+    <path d="M112 122c2 31-12 60-38 78" fill="none" stroke="#9b1757" stroke-width="8" stroke-linecap="round"/>
+    <path d="M89 163c-20-8-34-4-42 10 19 9 35 5 42-10Z" fill="#ffc5df" stroke="#24131e" stroke-width="3"/>
+  </g>
+
+  <g class="float-two">
+    <g transform="translate(1085 203)" fill="#ed177f" stroke="#24131e" stroke-width="4">
+      <circle cy="-25" r="20"/><circle cx="24" cy="-7" r="20"/><circle cx="15" cy="21" r="20"/><circle cx="-15" cy="21" r="20"/><circle cx="-24" cy="-7" r="20"/>
+      <circle r="15" fill="#fff8fc"/>
+    </g>
+    <path d="M1084 163c-3-27 8-50 29-68" fill="none" stroke="#9b1757" stroke-width="8" stroke-linecap="round"/>
+    <path d="M1100 126c21 5 34 0 40-15-20-6-34-1-40 15Z" fill="#ff79b8" stroke="#24131e" stroke-width="3"/>
+  </g>
+
+  <g class="bob" filter="url(#hi-shadow)">
+    <text x="600" y="184" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="154" font-weight="700" letter-spacing="6" fill="url(#hi-word)" stroke="#24131e" stroke-width="5" paint-order="stroke">HI!</text>
+  </g>
+  <text x="600" y="237" text-anchor="middle" font-family="'Courier New', monospace" font-size="22" font-weight="700" letter-spacing="5" fill="#24131e">WELCOME TO MY GITHUB GARDEN</text>
+
+  <g class="twinkle" fill="#fff067" stroke="#24131e" stroke-width="3" transform="translate(295 69)">
+    <path d="M0-23 6-6 23 0 6 6 0 23-6 6-23 0-6-6Z"/>
+  </g>
+  <g class="twinkle two" fill="#ff4fa3" stroke="#24131e" stroke-width="3" transform="translate(904 69)">
+    <path d="M0-19 5-5 19 0 5 5 0 19-5 5-19 0-5-5Z"/>
+  </g>
+  <g class="twinkle three" fill="#fff8fc" stroke="#24131e" stroke-width="3" transform="translate(947 220)">
+    <path d="M0-14 4-4 14 0 4 4 0 14-4 4-14 0-4-4Z"/>
+  </g>
+  <g class="wave" fill="none" stroke="#ed177f" stroke-width="7" stroke-linecap="round">
+    <path d="M220 224c20 10 37 10 57 0"/>
+    <path d="M923 110c20-10 37-10 57 0"/>
+  </g>
+</svg>
