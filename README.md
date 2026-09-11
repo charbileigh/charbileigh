@@ -70,7 +70,7 @@ Currently studying towards my Master of Commerce in Information Systems at UCT.
 
 
 
-![giphy](https://i.pinimg.com/originals/16/c2/41/16c24137ad4ce2e32a3eb1b8c4a659aa.gif)
+
 
 
 ```
@@ -95,7 +95,7 @@ Technical Systems Analysis
 
 
 
-
+r
 
 ![giphy](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BuNmYxaG00YXo0b2hvaW16OWV6bTZtdGZ5OGY5a2NtN2lwNmNtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Bht33KS4YXaHS5ABOP/giphy.gif)
 
