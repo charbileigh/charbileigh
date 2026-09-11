@@ -70,12 +70,14 @@ Currently studying towards my Master of Commerce in Information Systems at UCT.
 
 
 
-## 🛠️ Industrial Knowledge
+
 
 ![giphy](https://i.pinimg.com/originals/16/c2/41/16c24137ad4ce2e32a3eb1b8c4a659aa.gif)
 
+
 ```
-🌸🌸 
+🌸🌸
+🛠️ Industrial Knowledge and Specialization: 
 Software Testing
 Business Analysis
 Disability Studies
