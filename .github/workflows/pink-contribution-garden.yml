@@ -1,0 +1,44 @@
+name: Generate pink contribution garden
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/pink-contribution-garden.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pink-contribution-garden
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    name: Refresh contribution animation
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Generate light and dark pink snakes
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/pink-contribution-snake.svg?color_snake=#9b1757&color_dots=#fff8fc,#ffeaf4,#ffc5df,#ff79b8,#ff4fa3
+            dist/pink-contribution-snake-dark.svg?color_snake=#ffc5df&color_dots=#161b22,#4b1734,#7d1d4b,#b92a6b,#ed177f
+
+      - name: Publish animation assets
+        uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4 # v5
+        with:
+          build_dir: dist
+          target_branch: output
+          keep_history: false
+          jekyll: false
+          commit_message: "chore: refresh pink contribution garden"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
