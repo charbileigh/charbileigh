@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Goodbye!</title>
+  <desc id="desc">An animated pink farewell with drifting petals and waving flowers.</desc>
+  <defs>
+    <linearGradient id="bye-bg" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffc5df"/>
+      <stop offset="0.52" stop-color="#ffeaf4"/>
+      <stop offset="1" stop-color="#fff8fc"/>
+    </linearGradient>
+    <linearGradient id="bye-word" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff4fa3"/>
+      <stop offset="0.5" stop-color="#ed177f"/>
+      <stop offset="1" stop-color="#9b1757"/>
+    </linearGradient>
+    <pattern id="bye-dots" width="34" height="34" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="2" fill="#9b1757" opacity=".11"/>
+    </pattern>
+    <filter id="bye-shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="8" stdDeviation="0" flood-color="#24131e" flood-opacity=".16"/>
+    </filter>
+    <style>
+      .bob { animation: bye-bob 3s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      .petal-a { animation: petal-a 5.2s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      .petal-b { animation: petal-b 6.1s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      .petal-c { animation: petal-c 4.6s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      .flower-left { animation: flower-left 2.5s ease-in-out infinite; transform-box: fill-box; transform-origin: 50% 90%; }
+      .flower-right { animation: flower-right 2.5s ease-in-out infinite; transform-box: fill-box; transform-origin: 50% 90%; }
+      @keyframes bye-bob { 0%,100% { transform:translateY(0); } 50% { transform:translateY(-7px); } }
+      @keyframes petal-a { 0%,100% { transform:translate(0,0) rotate(8deg); opacity:.55; } 50% { transform:translate(25px,14px) rotate(120deg); opacity:1; } }
+      @keyframes petal-b { 0%,100% { transform:translate(0,0) rotate(-12deg); opacity:.7; } 50% { transform:translate(-28px,-12px) rotate(-130deg); opacity:1; } }
+      @keyframes petal-c { 0%,100% { transform:translate(0,0) rotate(4deg); opacity:.45; } 50% { transform:translate(16px,-18px) rotate(90deg); opacity:.9; } }
+      @keyframes flower-left { 0%,100% { transform:rotate(-8deg); } 50% { transform:rotate(8deg); } }
+      @keyframes flower-right { 0%,100% { transform:rotate(8deg); } 50% { transform:rotate(-8deg); } }
+      @media (prefers-reduced-motion: reduce) {
+        .bob,.petal-a,.petal-b,.petal-c,.flower-left,.flower-right { animation:none; }
+      }
+    </style>
+  </defs>
+
+  <rect x="8" y="8" width="1184" height="284" rx="42" fill="#24131e" opacity=".16"/>
+  <rect x="8" y="2" width="1184" height="284" rx="42" fill="url(#bye-bg)" stroke="#24131e" stroke-width="6"/>
+  <rect x="11" y="5" width="1178" height="278" rx="38" fill="url(#bye-dots)"/>
+
+  <g class="flower-left">
+    <path d="M113 234c4-40-1-77-15-108" fill="none" stroke="#9b1757" stroke-width="8" stroke-linecap="round"/>
+    <g transform="translate(96 100)" fill="#ff79b8" stroke="#24131e" stroke-width="4">
+      <circle cy="-25" r="20"/><circle cx="24" cy="-7" r="20"/><circle cx="15" cy="21" r="20"/><circle cx="-15" cy="21" r="20"/><circle cx="-24" cy="-7" r="20"/>
+      <circle r="15" fill="#fff067"/>
+    </g>
+    <path d="M106 177c-24-7-39-1-45 16 23 7 38 1 45-16Z" fill="#ffc5df" stroke="#24131e" stroke-width="3"/>
+  </g>
+
+  <g class="flower-right">
+    <path d="M1087 234c-4-40 1-77 15-108" fill="none" stroke="#9b1757" stroke-width="8" stroke-linecap="round"/>
+    <g transform="translate(1104 100)" fill="#ed177f" stroke="#24131e" stroke-width="4">
+      <circle cy="-25" r="20"/><circle cx="24" cy="-7" r="20"/><circle cx="15" cy="21" r="20"/><circle cx="-15" cy="21" r="20"/><circle cx="-24" cy="-7" r="20"/>
+      <circle r="15" fill="#fff8fc"/>
+    </g>
+    <path d="M1094 177c24-7 39-1 45 16-23 7-38 1-45-16Z" fill="#ff79b8" stroke="#24131e" stroke-width="3"/>
+  </g>
+
+  <g class="bob" filter="url(#bye-shadow)">
+    <text x="600" y="177" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="115" font-weight="700" letter-spacing="2" fill="url(#bye-word)" stroke="#24131e" stroke-width="5" paint-order="stroke">GOODBYE!</text>
+  </g>
+  <text x="600" y="232" text-anchor="middle" font-family="'Courier New', monospace" font-size="22" font-weight="700" letter-spacing="5" fill="#24131e">THANKS FOR STOPPING BY</text>
+
+  <path class="petal-a" d="M260 73c28-20 51-14 61 12-28 19-50 14-61-12Z" fill="#ff79b8" stroke="#24131e" stroke-width="3"/>
+  <path class="petal-b" d="M922 65c-24-18-45-12-54 11 24 18 44 13 54-11Z" fill="#ed177f" stroke="#24131e" stroke-width="3"/>
+  <path class="petal-c" d="M860 228c24-17 45-11 53 12-23 17-44 12-53-12Z" fill="#ffc5df" stroke="#24131e" stroke-width="3"/>
+  <path class="petal-a" d="M333 230c-21-15-39-10-46 10 21 14 38 10 46-10Z" fill="#ff4fa3" stroke="#24131e" stroke-width="3"/>
+</svg>
