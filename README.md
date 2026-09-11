@@ -3,7 +3,7 @@
 
 
 ![giphy](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3N0OTF3YzU1bHlqaWljOHJoZ2tqejNzaG9idnVlemoydHYxYjE1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fkT57wKWNBgGd78inC/giphy.gif)
-![giphy](https://github.com/user-attachments/assets/726eab29-cb72-4f9b-928f-e9c4dcf15346)
+![giphy](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzE5YmQ0ZnkwZjQ1bWs1amM0dHA2NXowZG9saHN1ZnU3dzd6Zmx6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif) 
 
 
 ```
@@ -72,7 +72,7 @@ Currently studying towards my Master of Commerce in Information Systems at UCT.
 
 
 
-
+<br></br>
 ```
 🌸🌸
 🛠️ Industrial Knowledge and Specialization: 
