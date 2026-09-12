@@ -96,7 +96,7 @@ Software Development
 
 
 
-r
+
 
 ![giphy](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BuNmYxaG00YXo0b2hvaW16OWV6bTZtdGZ5OGY5a2NtN2lwNmNtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Bht33KS4YXaHS5ABOP/giphy.gif)
 
