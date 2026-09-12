@@ -75,13 +75,14 @@ Currently studying towards my Master of Commerce in Information Systems at UCT.
 <br></br>
 ```
 🌸🌸
-🛠️ Industrial Knowledge and Specialization: 
-Software Testing
-Business Analysis
-Disability Studies
-Software Development
-Configuration Engineering
+🛠️ Core Professional Areas:
+ 
 Technical Systems Analysis
+Business and Requirements Analysis
+Software Quality and Testing
+Configuration Engineering
+Solution Delivery and Production Support
+Software Development
 🌸🌸 
 ```
 
