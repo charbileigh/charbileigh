@@ -8,8 +8,8 @@
 
 ```
 🌸🌸   
-I firmly believe in the importance of continual learning and growth.
-I am always seeking new challenges and opportunities to expand my technical knowledge and skills.  
+I am a Technical Systems Analyst. I work with requirements, data, APIs, software quality and production support. 
+I also have hands-on experience with JavaScript, Python and system configuration.  
 I hold a Bachelor of Science in Mechanical and Mechatronic Engineering,  
 and a Postgraduate Degree in Disability Studies from the University of Cape Town (UCT).
 Currently studying towards my Master of Commerce in Information Systems at UCT.    
