@@ -13,7 +13,7 @@ and production support.
 I also have hands-on experience with JavaScript, Python and system configuration.  
 I hold a Bachelor of Science in Mechanical and Mechatronic Engineering,  
 and a Postgraduate Degree in Disability Studies from the University of Cape Town (UCT).
-Currently studying towards my Master of Commerce in Information Systems at UCT.    
+I am currently studying towards my Master of Commerce in Information Systems at UCT.    
 🌸🌸  
 ```
 ![code 1](https://github.com/user-attachments/assets/d17303f3-52f0-4d9d-8e3d-ff89d5551fc6)
